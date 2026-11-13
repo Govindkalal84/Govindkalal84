@@ -2,12 +2,12 @@
 
 # Hi there, I'm Govind Sadhanande 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Java+Backend+%2F+Full+Stack+Developer;Spring+Boot+%26+Microservices+Architect;Full+Stack+Developer+Intern+%40+Tap+Academy;120%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Java+Backend+%2F+Full+Stack+Developer;Spring+Boot+%26+Microservices+Architect;Full+Stack+Developer+Intern+%40+Tap+Academy;LeetCode+50+Days+Badge+2026+Winner)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://govind-portfolio-dev.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/govind-sadhanande"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Govindkalal/"><img src="https://img.shields.io/badge/LeetCode-120+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/Govindkalal/"><img src="https://img.shields.io/badge/LeetCode-50_Days_Badge_2026-brightgreen?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:ntg043172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 💼 **Full Stack Developer Intern** at **Tap Academy** (Bengaluru, India).
-- 🧠 **Problem Solver:** Solved **120+ Data Structures & Algorithms problems on LeetCode** ([@Govindkalal](https://leetcode.com/u/Govindkalal/)) with strong focus on Medium patterns (Sliding Window, Two Pointers, Trees, Graphs, DP).
+- 🏆 **Algorithmic Consistency:** Awarded the official **LeetCode 50 Days Badge 2026** ([@Govindkalal](https://leetcode.com/u/Govindkalal/)) with **120+ problems solved** (78+ Mediums across Sliding Window, Two Pointers, Trees, Graphs, DP).
 - 🚀 Specialized in building **scalable RESTful APIs**, **distributed microservices**, **gRPC communication**, and **event-driven streaming** with **Java 17**, **Spring Boot**, and **Apache Kafka**.
 - 🛡️ Strong focus on **enterprise security** (Spring Security, JWT, BCrypt, OWASP Top 10) and **performance tuning** (resolving N+1 query bottlenecks with JPQL JOIN FETCH, DTO projections, indexing).
 - 🎓 B.E. in **Computer Science & Engineering** (2022 – 2026) | First Class (CGPA: 7.41/10).
@@ -91,7 +91,7 @@
       <img src="https://img.shields.io/badge/Microservices-2563EB?style=flat-square&logo=apache-pulsar&logoColor=white" alt="Microservices"/>
       <img src="https://img.shields.io/badge/DTO_Pattern-4B5563?style=flat-square&logo=blueprint&logoColor=white" alt="DTO Pattern"/>
       <img src="https://img.shields.io/badge/ACID_Transactions-10B981?style=flat-square&logo=databricks&logoColor=white" alt="ACID"/>
-      <img src="https://img.shields.io/badge/DSA-LeetCode_Active-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="DSA"/>
+      <img src="https://img.shields.io/badge/LeetCode-50_Days_2026-brightgreen?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode 50 Days"/>
     </td>
   </tr>
 </table>
@@ -167,15 +167,27 @@
 
 ---
 
-### 🧩 Problem Solving & GitHub Analytics
+### 🧩 Problem Solving & Verified LeetCode Credentials
 
 <div align="center">
-  <!-- LeetCode Card -->
-  <p>
-    <a href="https://leetcode.com/u/Govindkalal/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/Govindkalal?theme=tokyonight&font=Fira%20Code" alt="Govind's LeetCode Stats" />
-    </a>
-  </p>
+  <table border="0">
+    <tr>
+      <td align="center" width="60%">
+        <a href="https://leetcode.com/u/Govindkalal/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/Govindkalal?theme=tokyonight&font=Fira%20Code" alt="Govind's LeetCode Stats" />
+        </a>
+      </td>
+      <td align="center" width="40%">
+        <a href="https://leetcode.com/u/Govindkalal/" target="_blank">
+          <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="130" alt="LeetCode 50 Days Badge 2026" />
+        </a>
+        <br />
+        <strong>🏆 50 Days Badge 2026</strong>
+        <br />
+        <sub>Earned for 50+ days of disciplined daily problem-solving on LeetCode.</sub>
+      </td>
+    </tr>
+  </table>
 
   <!-- GitHub Stats & Top Languages -->
   <table border="0">
@@ -209,7 +221,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Govindkalal/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-50_Days_2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ntg043172@gmail.com">
