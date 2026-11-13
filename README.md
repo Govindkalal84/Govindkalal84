@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Java+Backend+%2F+Full+Stack+Developer;Spring+Boot+%26+Microservices+Architect;Full+Stack+Developer+Intern+%40+Tap+Academy;Building+Scalable+%26+Distributed+Systems)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://govindkalal84.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://govind-portfolio-dev.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/govind-sadhanande"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ntg043172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -156,7 +156,7 @@
             <li>Hosted and deployed globally on GitHub Pages with HTTPS.</li>
           </ul>
         </li>
-        <li>🔗 <strong><a href="https://govindkalal84.github.io/portfolio/">Live Website</a></strong> • 📁 <strong><a href="https://github.com/Govindkalal84/portfolio">Repository</a></strong></li>
+        <li>🔗 <strong><a href="https://govind-portfolio-dev.vercel.app/">Live Website</a></strong> • 📁 <strong><a href="https://github.com/Govindkalal84/portfolio">Repository</a></strong></li>
       </ul>
     </td>
   </tr>
@@ -189,7 +189,7 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://govindkalal84.github.io/portfolio/">
+  <a href="https://govind-portfolio-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
